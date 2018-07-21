@@ -1,0 +1,413 @@
+operating systems ,4
+hardware environmentsportability ,4
+broad market ,4
+longer limited ,4
+compiler implementor ,4
+rights reservedare ,4
+javaruntime system ,4
+byte code ,4
+source codedirectly ,4
+java programs ,4
+machineindependentbyte code ,4
+easily interpreted ,4
+latest versions ,4
+harm hardware ,4
+hard disksthere ,4
+main lines ,4
+features designed ,4
+compilation unit ,4
+acompilation unit ,4
+programjava programs ,4
+initial context ,4
+file io ,4
+aseparate file ,4
+easily find ,4
+link phase ,4
+rights reservedruntimethe ,4
+diagram shows ,4
+java compilation ,4
+demand atruntime ,4
+alreadyexisting portions ,4
+trivial application ,4
+argument   args1 ,4
+runtime system ,4
+methodgui components ,4
+start animations ,4
+threads paintgraphics ,4
+contained components ,4
+becausethey handle ,4
+painting stop ,4
+suspend animations ,4
+rights reservedthreads ,4
+destroy destroy ,4
+menu bar ,4
+call superdispose ,4
+draw things ,4
+ignore messages ,4
+theapplet tag ,4
+callingappletgetparameterpwhich returns ,4
+getparameterwidth    systemoutprintlnp1 ,4
+standard outputwidth ,4
+interesting observation ,4
+easily comment ,4
+normalcode commentary ,4
+source code ,4
+primitive typevariables ,4
+boolean types ,4
+signedobjectsa simple ,4
+struct definition ,4
+buttonok  int ,4
+code places ,4
+allocates memory ,4
+null       declare ,4
+null               declare ,4
+primitive types ,4
+java strings ,4
+compilerfor examplestring ,4
+3to convert ,4
+stringvalueof4to convert ,4
+int useint ,4
+integerparseint4array objectsin ,4
+runtime nullpointerexceptioninitializersvariables ,4
+primitive typesint ,4
+true objectsbutton ,4
+employee arraysint ,4
+ccconstant expressionsitemexamples ,4
+char literala ,4
+objectgeneral expressionsitemexamples ,4
+lowest priority ,4
+table showsforms ,4
+continue apply ,4
+labeljava semanticswe ,4
+rights reservedsemantics ,4
+int variables ,4
+1i       data ,4
+implied assignments ,4
+cc code ,4
+codeint fooint ,4
+34button bfoobutton ,4
+data2  data ,4
+true   de ,4
+objectto perform ,4
+deep comparison ,4
+boolean equalsdata ,4
+pointer types ,4
+illustrate thedifference ,4
+java semantics ,4
+equivalentcode fragments ,4
+stackspush dereference ,4
+stale objectone ,4
+deallocatedto illustrate ,4
+garbage collector ,4
+loop body ,4
+instantiated andt ,4
+itsstill allocated ,4
+leaked memoryin ,4
+java methodcauses ,4
+remains allocateduntil ,4
+integrateyour program ,3.8
+java program ,3.8
+javadoc program ,3.8
+data1  data ,3.8
+data1 aequalsb ,3.8
+height parameters ,3.75
+button init ,3.75
+null  button ,3.75
+button pointerb ,3.75
+code button ,3.75
+button pointer ,3.75
+button initb ,3.75
+button settitlea0 ,3.75
+data2  bdata ,3.75
+data4       bdata ,3.75
+notnecessarymethod parameters ,3.75
+netscapenavigator browser ,3.714285714
+www browser ,3.714285714
+browser creates ,3.714285714
+iconifyyour browser ,3.714285714
+allocate space ,3.714285714
+allocate memory ,3.714285714
+structs  allocate ,3.714285714
+buttonok   point ,3.666666667
+stack dereference ,3.666666667
+java applications ,3.6
+java language ,3.6
+hostplatform applications ,3.6
+class definition ,3.555555556
+class athere ,3.555555556
+public class ,3.555555556
+class files ,3.555555556
+class definitions ,3.555555556
+return valuesarguments ,3.545454545
+return values ,3.545454545
+null  return ,3.545454545
+return callocsizeofbuttonwould ,3.545454545
+section include ,3.5
+macapplication written ,3.5
+parameter definitions ,3.5
+getparameterp2  prints ,3.5
+testcommentsjava comments ,3.5
+combination cstylecomments ,3.5
+cstyle comments ,3.5
+style comments ,3.5
+heapthe equivalent ,3.5
+objects stored ,3.5
+stackstoring objects ,3.5
+112the length ,3.5
+objects thatknow ,3.5
+java objects ,3.5
+buttonok       create ,3.5
+making arrays ,3.5
+ten arrays ,3.5
+continue statements ,3.5
+objectsassignment makes ,3.5
+alljava objects ,3.5
+array objectit ,3.416666667
+int5an array ,3.416666667
+fiveelement array ,3.416666667
+variables refer ,3.4
+ifthey refer ,3.4
+object typespurely ,3.363636364
+object variables ,3.363636364
+stack  point ,3.333333333
+stack stack ,3.333333333
+java applets ,3.333333333
+run applets ,3.333333333
+method takes ,3.333333333
+assigned compared ,3.333333333
+method calledequals ,3.333333333
+portable program ,3.3
+applet constructor ,3.25
+applet isrevisited ,3.25
+applet terminates ,3.25
+optional parameters ,3.25
+reference semantics ,3.222222222
+reference injava ,3.222222222
+array button ,3.166666667
+string usestring ,3.142857143
+button object ,3.113636364
+machine language ,3.1
+data1  adata ,3.085714286
+dispose method ,2.833333333
+array object ,2.78030303
+data1 ,1.8
+program ,1.8
+parameters ,1.75
+button ,1.75
+bdata ,1.75
+browser ,1.714285714
+allocate ,1.714285714
+stack ,1.666666667
+point ,1.666666667
+applications ,1.6
+language ,1.6
+class ,1.555555556
+return ,1.545454545
+portable ,1.5
+machine ,1.5
+objects ,1.5
+prints ,1.5
+dispose ,1.5
+optional ,1.5
+parameter ,1.5
+comments ,1.5
+cstylecomments ,1.5
+section ,1.5
+makes ,1.5
+statements ,1.5
+length ,1.5
+arrays ,1.5
+create ,1.5
+equivalent ,1.5
+written ,1.5
+array ,1.416666667
+refer ,1.4
+object ,1.363636364
+applets ,1.333333333
+method ,1.333333333
+assigned ,1.333333333
+adata ,1.285714286
+3 adata ,1.285714286
+1 adata ,1.285714286
+applet ,1.25
+reference ,1.222222222
+string ,1.142857143
+robust ,1
+structure ,1
+executed ,1
+invoked ,1
+advantage ,1
+version ,1
+software ,1
+serve ,1
+internet ,1
+effect ,1
+completely ,1
+defined ,1
+portable2 ,1
+library ,1
+compile ,1
+inflexible ,1
+translated ,1
+virtually ,1
+secure ,1
+difficult ,1
+corruptsteal ,1
+calls ,1
+jumping ,1
+considered ,1
+classes ,1
+optionally ,1
+state ,1
+behavior ,1
+allowed ,1
+sockets ,1
+restrictions ,1
+subclass ,1
+tosubclass ,1
+respond ,1
+programinstantiates ,1
+linking ,1
+executionsequence ,1
+acollection ,1
+linked ,1
+write ,1
+reside ,1
+beginwith ,1
+amethod ,1
+javalanguage ,1
+methods ,1
+appletviewer ,1
+execute ,1
+instance ,1
+place ,1
+calledonce ,1
+initialized ,1
+buttons ,1
+scrollbars ,1
+added ,1
+called ,1
+deiconify ,1
+methodshould ,1
+redrawn ,1
+drawn ,1
+leave ,1
+whenquitting ,1
+freeing ,1
+systemresources ,1
+frameremoves ,1
+forget ,1
+youoverride ,1
+bring ,1
+display ,1
+output ,1
+trivialapplet ,1
+similar ,1
+mandatory ,1
+hspace ,1
+access ,1
+opening ,1
+closing ,1
+ignorednote ,1
+nested ,1
+surroundingit ,1
+commenting ,1
+processed ,1
+generatedocumentation ,1
+leading ,1
+defines ,1
+integerint ,1
+intsvector ,1
+allocatesmemory ,1
+operator ,1
+points ,1
+buttonobject ,1
+heapwould ,1
+codebutton ,1
+provided ,1
+addition ,1
+efficiency ,1
+efficient ,1
+realobjects ,1
+pointers ,1
+constant ,1
+content ,1
+concatenated ,1
+operatorstring ,1
+onetwoyou ,1
+concatenate ,1
+converted ,1
+obtained ,1
+number ,1
+elements ,1
+element ,1
+index 0 ,1
+creating ,1
+arrayobject ,1
+notspecify ,1
+operatorint ,1
+contrast ,1
+5 ints ,1
+5 references ,1
+buttonsbutton ,1
+button5creates ,1
+elementsa0 ,1
+buttonoka3 ,1
+buttonquitin ,1
+5 pointers ,1
+arraya0 ,1
+buttonsa3 ,1
+created ,1
+examplet ,1
+t105makes ,1
+references ,1
+thisstatement ,1
+objectsaccessing ,1
+objectresults ,1
+3boolean ,1
+nullemployee ,1
+delimited ,1
+notpresent ,1
+sizeof ,1
+removed ,1
+operators ,1
+order ,1
+highest ,1
+precedence ,1
+labels ,1
+break ,1
+bepreceded ,1
+copysemantics ,1
+means ,1
+passed ,1
+treated ,1
+arguments ,1
+jperforms ,1
+1data ,1
+howeverhave ,1
+pretend ,1
+buttonor ,1
+equal ,1
+thesame ,1
+false ,1
+thisd ,1
+referring ,1
+convention ,1
+define ,1
+data1data ,1
+similarstack ,1
+longerneeded ,1
+relieving ,1
+tedious ,1
+deallocating ,1
+memoryas ,1
+consequence ,1
+javaobject ,1
+validthere ,1
+invalid ,1
+callocmalloc ,1
+codevoid ,1
+pointed ,1
+referred ,1
+issue ,1
+notices ,1
